@@ -1,4 +1,3 @@
-
 ## 🦊 **João Raposa** 
 
 
@@ -14,7 +13,7 @@ Sou apaixonado por tecnologia e por mudar a vida das pessoas através da program
 
 ---
 ### **Meu status**
-![Raposa GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCalingo&show_icons=true&theme=radical)
+![Raposa GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoCalingo&show_icons=true&theme=radical)
 
 ---
 ### Tecnologias que uso no meu dia
@@ -27,3 +26,7 @@ Sou apaixonado por tecnologia e por mudar a vida das pessoas através da program
     <img  alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />       
 </div>
 
+
+          
+          
+          
