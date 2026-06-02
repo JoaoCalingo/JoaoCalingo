@@ -1,7 +1,7 @@
 ## 🦊 **João Raposa** 
 
 
-**`Desenvolvedor Beck-End`**
+**`Desenvolvedor Back-End`**
 
 Meu Nome é **João Raposa Calingo**, tenho 20 anos e sou natural de Maianga da Provincia de Luanda, concluí o ensino médio no *Instituto Politécnico nº 2039 "30 de Setembro"* com o curso **Técnico de Informática**.
 
