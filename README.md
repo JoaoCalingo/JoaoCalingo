@@ -1,12 +1,42 @@
-## 🦊 **João Raposa** 
+# Olá, eu sou João Raposo 👋
 
+💻 Estudante de Tecnologia da Informação e Desenvolvedor em formação.
 
-**`Desenvolvedor Back-End`**
+Sou apaixonado por programação, desenvolvimento web e criação de soluções digitais. 
+Tenho conhecimentos em **HTML, CSS, JavaScript, PHP, Java, Banco de Dados e Redes de Computadores**.
 
-Meu Nome é **João Raposa Calingo**, tenho 20 anos e sou natural de Maianga da Provincia de Luanda, concluí o ensino médio no *Instituto Politécnico nº 2039 "30 de Setembro"* com o curso **Técnico de Informática**.
+🚀 Atualmente estou focado em melhorar minhas habilidades como desenvolvedor Back-End, criando projetos práticos para evoluir minha lógica de programação e experiência no desenvolvimento de sistemas.
 
+## 🛠️ Tecnologias e Ferramentas
 
-Sou apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Java
+- MySQL
+- Git & GitHub
+- Redes de Computadores
+- Excel, Word e PowerPoint
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Back-End
+- Estruturas de dados e lógica de programação
+- Boas práticas de desenvolvimento
+- Criação de APIs e sistemas web
+
+## 🎯 Objetivos
+
+Meu objetivo é crescer como desenvolvedor, participar de projetos desafiadores e contribuir para soluções tecnológicas que gerem impacto.
+
+## 📫 Contato
+
+📧 Email: joaoraposo@gmail.com
+
+---
+
+⭐ "Sempre aprendendo, sempre evoluindo."
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-raposa-calingo-20a678360/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoCalingo)
