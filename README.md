@@ -29,7 +29,7 @@ Tecnologias: PHP + JavaScript + MySQL
 
 ## 📊 Estatísticas
 
-![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoCalingo&show_icons=true&theme=dark)
+![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoCalingo&show_icons=true&cache_seconds=1800&theme=dark)
 
 ## 🎯 Objetivos
 
