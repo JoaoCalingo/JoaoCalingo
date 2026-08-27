@@ -39,7 +39,7 @@ Meu objetivo é crescer como desenvolvedor, participar de projetos desafiadores 
 
 📧 Email: joaocalingo@gmail.com
 
-💼 LinkedIn: [joao-raposa-calingo](https://www.linkedin.com/in/jo%C3%A3o-raposa-calingo-20a678360/)
+💼 LinkedIn: [joao-raposa-calingo](https://www.linkedin.com/in/joaoraposacalingo/)
 
 🌎 Localização: Angola
 
