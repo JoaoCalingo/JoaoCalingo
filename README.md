@@ -8,7 +8,7 @@ Tenho interesse em desenvolvimento web, sistemas e tecnologias que ajudam a reso
 
 Atualmente estou evoluindo minhas habilidades em Back-End, criando projetos práticos e buscando sempre aprender novas ferramentas.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-raposa-calingo-20a678360/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoCalingo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoraposacalingo/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoCalingo)
 ## 🚀 Tecnologias
 
 <div>
@@ -29,7 +29,7 @@ Tecnologias: PHP + JavaScript + MySQL
 
 ## 📊 Estatísticas
 
-![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoCalingo&show_icons=true&cache_seconds=1800&theme=dark)
+![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoCalingo&show_icons=true&theme=dark)
 
 ## 🎯 Objetivos
 
